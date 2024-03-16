@@ -1,0 +1,52 @@
+
+		CMPUT 229 Laboratory Assignment #4
+		==================================
+
+Final Mark:       100    /100 MARKS TOTAL
+                =====
+Part 1:         __8___ /8 Proper Startup
+
+Part 2:         __36___ /36 Keyboard Input
+
+Part 3:         __36___ /36 Countdown Display & Behaviour
+
+Part 4:		__20___ /20 Style
+
+(Graded by: Raghav M.)
+
+-------------------------------------------------------------------------
+Part 1: Proper Startup
+
+ __8___ /8
+
+	Test 1 __8__ /8
+
+------------------------------------------------------------------------
+Part 2: Keyboard Input
+
+
+ _36____ /36
+
+	Test 2 ___6__ /6 Test 3 ___6__ /6 Test 4 ___6__ /6 
+
+	Test 5 __6___ /6 Test 6 __6___ /6 Test 7 ___6__ /6
+------------------------------------------------------------------------
+Part 3: Countdown Display & Behaviour
+
+ _36____ /36
+
+	Test 8 ___6__ /6 Test 9 __6___ /6 Test 10 ___6__ /6 
+
+	Test 11 __6___ /6 Test 12 __6___ /6 Test 13 __6___ /6
+      
+------------------------------------------------------------------------
+Part 4: Style
+
+ __20___ /20
+ 
+Some common deductions will include: (5 marks per deduction)
+	No subroutine description
+	No program header
+	No explanation for register usage
+	No block comments
+
